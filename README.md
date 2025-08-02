@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGu6M5nsJ4/EOx82GJUnfrt0e6fmD1SwA/edit?utm_content=DAGu6M5nsJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+
 <h1 align="center">Hello 👋, I'm Md.Salahuddin Asad</h1>
 <h3 align="center">Professional Web Developer|Web Designer|Clean Code|Web Solutions From Bangladesh.</h3>
 
